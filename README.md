@@ -1,6 +1,6 @@
 # 🥣 Special K - Local-First Meeting Assistant
 
-A **privacy-preserving** meeting intelligence tool for handling confidential information without exposing it to remote servers. Unlike cloud-based meeting assistants (like Granola.ai), Special K keeps all audio, transcripts, and analysis entirely on your machine using a local LLM.
+A **privacy-preserving** meeting intelligence tool for TPMs, EMs, SDEs that handle confidential information without exposing it to remote servers. Unlike cloud-based meeting assistants (like Granola.ai), Special K keeps all audio, transcripts, and analysis entirely on your machine using a local LLM.
 
 Built with voice coding in Python/Streamlit during my Staff TPM role, where protecting confidential cross-functional data is non-negotiable.
 
