@@ -1,0 +1,77 @@
+[
+    {
+        "id": "20260126_134040",
+        "title": "AOSP Workshop",
+        "date": "2026-01-26 13:40",
+        "transcript_path": "meetings/20260126_134040/transcript.txt",
+        "context_files": [
+            "meetings/20260126_134040/AOSP Strategy 2026 Workshop.docx"
+        ],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019ve been thinking about how we\u2019re shifting from Lbar to CI effectiveness\u2014has anyone looked at how other teams measure CI feedback loops, especially in fast-moving environments like engineering orgs at Google or Meta?  \n\nAlso, when we talk about tracking bug resolution speed, are we accidentally favoring quick fixes over deeper fixes? I\u2019ve seen cases where faster resolution metrics actually encourage patching over redesigning, which can pile up tech debt.\n\n---\n*\u23f1\ufe0f 5.1s | Model: `qwen/qwen3-30b-a3b-2507`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with the engineering leadership team to discuss improving bug resolution speed and refining our tracking metrics.  \nWe\u2019re shifting from Lbar to CI effectiveness as a core metric, and will keep key results stable while adding supporting metrics.  \nWe\u2019ll clarify ownership by listing DRIs and teams per project, and keep a separate table for dev infrastructure work.\n\n---\n*\u23f1\ufe0f 3.29s | Model: `qwen/qwen3-30b-a3b-2507`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019ve seen teams at other companies use CI effectiveness not just as a speed metric but as a signal for stability\u2014like, how often does a failed CI break the build in a way that actually matters. Are we measuring that too, or just time-to-fix?\n\nAlso, when we say we want to track who\u2019s doing what, I wonder if we\u2019re over-indexing on names and missing the real issue: are the right people actually *staying* on these projects long enough to see them through?\n\n---\n*\u23f1\ufe0f 8.1s | Model: `qwen/qwen3-30b-a3b-2507`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious about how we\u2019re balancing speed and quality when we say \u201cfaster bug resolution.\u201d In my experience, teams that track the depth of fixes\u2014like how many root\u2011cause changes are made per bug\u2014often see lower rework. Should we add a metric that flags when quick fixes are leading to repeat issues?\n\nWhen we list DRIs per project, I wonder if we\u2019re capturing enough context about why those people are the right fit. Could we add a brief note on each DRI\u2019s expertise or recent contributions so that the table also tells us about skill alignment, not just ownership?\n\n---\n*\u23f1\ufe0f 10.71s | Model: `openai/gpt-oss-20b:2`*"
+            },
+            {
+                "role": "user",
+                "content": "Based on the last 3 minute of discussion. I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m wondering how we\u2019re planning to keep the AI\u2011driven bug fixes from becoming a \u201cquick\u2011fix\u201d trap\u2014do we have a plan to track the depth of those fixes, not just the speed?  \n\nAlso, when we say we\u2019ll separate dev\u2011infra from project tables, could someone explain how that split will help us spot cross\u2011team bottlenecks? I\u2019ve seen similar moves at other orgs that actually made it harder to see the big picture.\n\n---\n*\u23f1\ufe0f 10.91s | Model: `openai/gpt-oss-20b:2`*"
+            },
+            {
+                "role": "user",
+                "content": "Based on the last minute of discussion. I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious about how we\u2019re going to keep the AI\u2011driven bug fixes from becoming a quick\u2011fix trap\u2014do we have a plan to track the depth of those fixes, not just speed?  \n\nAlso, when we split dev\u2011infra from project tables, could someone explain how that split will help us spot cross\u2011team bottlenecks? I\u2019ve seen similar moves at other orgs that actually made it harder to see the big picture.\n\n---\n\n---\n*\u23f1\ufe0f 11.87s | Model: `openai/gpt-oss-20b:2`*"
+            },
+            {
+                "role": "user",
+                "content": "I'm in a meeting and zoned out briefly. Help me catch up by reading through the most recent part of the transcript for me. \n\n- Do not introduce the answer, just answer directly\n- Summarize only the most immediate things that were said\n- Use 1-3 bullet points for easy reading\n- If a solo meeting, just summarize directly\n- If not a solo meeting, summarize only what they said\n- Do not use quotes or quotation marks\n\nI am still in the meeting and trying to pay attention, so make sure the last few beats of the meeting are summarized neatly and succinctly. "
+            },
+            {
+                "role": "assistant",
+                "content": "- The team is moving from Lbar to CI effectiveness metrics while keeping key results unchanged.  \n- They plan to separate dev\u2011infra tracking into its own table and keep project tables focused on DRIs and owners.  \n- There\u2019s a concern that AI\u2011driven bug fixes might become quick patches; they want to track depth of fixes, not just speed.\n\n---\n*\u23f1\ufe0f 13.27s | Model: `openai/gpt-oss-20b:2`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m wondering how we\u2019re planning to keep AI\u2011driven bug fixes from becoming a quick\u2011fix trap\u2014do we have a plan to track the depth of those fixes, not just speed?  \n\nAlso, when we split dev\u2011infra from project tables, could someone explain how that split will help us spot cross\u2011team bottlenecks? I\u2019ve seen similar moves at other orgs that actually made it harder to see the big picture.\n\n---\n*\u23f1\ufe0f 16.81s | Model: `openai/gpt-oss-20b:2`*"
+            }
+        ]
+    }
+]

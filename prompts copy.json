@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Recap Next Steps",
+        "text": "It\u2019s near the end of the meeting and I\u2019d like to wrap up and get confirm next steps. Can you please list out agreed action items with any explicitly mentioned deadlines. Where there is ambiguity or open subjects we absolutely need to confirm, list them below \"To confirm\". Try to only share the most important actions. \n\nOutput\n## Agreed actions\n* [brief, action focused list, each bullet starts with a verb)\n## To confirm\n* [questions or non-concluded discussions]",
+        "icon": "\ud83d\udd16"
+    },
+    {
+        "title": "TLDR",
+        "text": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3",
+        "icon": "\u270d\ufe0f",
+        "usage_count": 6
+    },
+    {
+        "title": "Suggest Q",
+        "text": "I want to contribute meaningfully to this meeting by asking an engaged and interested question. \n\n- Consider my role in this meeting, make sure the question aligns with my interests as a participant. \n- Ask questions that respond directly to the conversation currently being had, they can be simple questions\n- The point of the question is not to demonstrate my own knowledge, but to open the conversation up helpfully. \n- Present only three thoughtful follow up questions based on the recent context\n- Use human language, do not overcomplicate it",
+        "icon": "\ud83d\udca1"
+    },
+    {
+        "title": "What Did I Miss",
+        "text": "I'm in a meeting and zoned out briefly. Help me catch up by reading through the most recent part of the transcript for me. \n\n- Do not introduce the answer, just answer directly\n- Summarize only the most immediate things that were said\n- Use 1-3 bullet points for easy reading\n- If a solo meeting, just summarize directly\n- If not a solo meeting, summarize only what they said\n- Do not use quotes or quotation marks\n\nI am still in the meeting and trying to pay attention, so make sure the last few beats of the meeting are summarized neatly and succinctly. ",
+        "icon": "\ud83d\ude43",
+        "usage_count": 1
+    },
+    {
+        "title": "MMSS",
+        "text": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! ",
+        "icon": "\ud83d\udca1",
+        "usage_count": 18
+    },
+    {
+        "title": "Sentiment",
+        "text": "Analyze the sentiment of the speakers.",
+        "icon": "\ud83e\udd28",
+        "usage_count": 0
+    },
+    {
+        "title": "Summary",
+        "text": "Summarize the meeting transcript with the following structure:\n\n## QUICK RECAP\n4-6 sentences capturing what this meeting was about and the main outcome.\n\n## Summary\n- Share the main topics that were discussed in 2-6 sentences\n- Include important details, concerns, or context raised for each topic\n- Note any significant data, metrics, or references mentioned\n\n## ACTION ITEMS & NEXT STEPS\nFor each action item identified:\n- **Task**: What needs to be done\n- **Owner**: Who is responsible (if mentioned, otherwise mark as \"TBD\")\n- **Deadline**: When it's due (if mentioned, otherwise mark as \"TBD\")\n\nIf no action items were discussed, state \"None identified.\"\n\n## OPEN QUESTIONS / UNRESOLVED ITEMS\n- List any questions that were raised but not answered\n- Include topics that need further discussion or follow-up\n- Note any blockers or dependencies mentioned\n\nIf everything was resolved, state \"None - all items addressed.\"\n\n---\nKeep the summary factual and concise. Only include information explicitly stated in the transcript. If the transcript is incomplete or ongoing, summarize what is available and note that more content may follow.",
+        "icon": "\ud83d\udcd6",
+        "usage_count": 8
+    }
+]

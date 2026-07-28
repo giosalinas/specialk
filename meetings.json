@@ -1,0 +1,405 @@
+ [
+    {
+        "id": 1772563176,
+        "title": "tpm offsite",
+        "date": "2026-03-03 10:39",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1772563176.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if we could set up a quick \u201cpulse check\u201d for each pod\u2014just a one\u2011page summary of what\u2019s working, what isn\u2019t, and the next small experiment. That would let us keep a shared rhythm without locking everyone into long\u2011term goals that might shift before we finish.\n\nAlso, when we talk about the TPM pod being its own unit versus part of a central pod, could someone explain how that choice affects our ability to share tooling and best practices? I\u2019m curious whether a single centralized pod would make coordination easier or just add another layer of bureaucracy.\n\n---\n*\u23f1\ufe0f 19.41s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if the TPM pod could act as a lightweight \u201ctoolsmith\u201d that builds reusable AI\u2011native templates for other pods, so we don\u2019t need to reinvent the wheel each time.  \nCould someone explain how you see the balance between keeping code cheap and still enforcing enough coordination to avoid duplicated effort across pods?\n\n---\n*\u23f1\ufe0f 18.02s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "how should we re=focus the role of tpm as builders ?"
+            },
+            {
+                "role": "assistant",
+                "content": "- **Shift from \u201cbuilder\u201d to \u201corchestrator.\u201d**  \n  * TPMs should coordinate cross\u2011pod work, not just write code.  \n\n- **Own the end\u2011to\u2011end workflow.**  \n  * Identify bottlenecks, standardize tooling, and ensure consistent CI/CD pipelines across pods.  \n\n- **Measure impact by outcomes, not output.**  \n  * Track improvements in release quality, cycle time, and defect reduction rather than lines of code delivered.  \n\n- **Facilitate rapid iteration.**  \n  * Set up lightweight feedback loops, enable quick prototype testing, and de\u2011duplicate effort across teams.  \n\n- **Maintain a single source of truth for AI readiness.**  \n  * Centralize data models, reporting dashboards, and knowledge bases so every pod can pull what they need without reinventing.\n\n---\n*\u23f1\ufe0f 23.52s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "i ask the oppostive how to move from orchestrator to builder"
+            },
+            {
+                "role": "assistant",
+                "content": "- **Clarify the goal** \u2013 Identify one concrete outcome you want to deliver (e.g., a new CI pipeline or an AI\u2011native workflow).  \n- **Map the required skills** \u2013 List the technical tasks that need to be done (coding, testing, deployment).  \n- **Shift mindset** \u2013 Treat the orchestrator role as a *project owner* that hands off to builders, then gradually take on a builder task yourself.  \n- **Start small** \u2013 Pick the simplest component of the goal, build it, and iterate.  \n- **Use \u201cbuilder\u2011in\u2011training\u201d time** \u2013 Allocate a set number of hours per week to hands\u2011on work while still coordinating the overall effort.  \n- **Leverage automation** \u2013 Build reusable scripts or templates that others can use, so your builder work scales.  \n- **Measure impact** \u2013 Track metrics (e.g., time saved, error rate) to show the value of moving from orchestration to direct building.\n\n---\n*\u23f1\ufe0f 21.84s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1772480152,
+        "title": "aosp steerring",
+        "date": "2026-03-02 11:35",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1772480152.txt",
+        "context_files": [],
+        "chat_history": []
+    },
+    {
+        "id": 1772211229,
+        "title": "tpm pod weekly",
+        "date": "2026-02-27 08:53",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1772211229.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if we could break the weekly report into a few focused metrics\u2014like open bugs per engineer, average time to resolve a critical issue, and sprint velocity\u2014to make it more actionable instead of just listing counts.  \n\nCould we also think about how the new fixed\u2011rate skill for sub trends might affect our stability metrics, and maybe run a quick pilot to see if it changes the bug\u2011to\u2011task ratio?\n\n---\n*\u23f1\ufe0f 7.69s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious about how the weekly stability report balances depth and actionability\u2014do we have a threshold for when an issue is actionable, or should we flag everything and let teams decide?  \n\nWhen you mentioned Jordan building a prototype for fixed\u2011rate insights, could we think about how that skill might feed back into the larger stability metrics so the report stays one step ahead of potential dips?\n\n---\n*\u23f1\ufe0f 6.42s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "this is for a CTO report so it needs to be more high level: I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "I see the weekly stability report as a great way to surface systemic issues, but we might also want to flag any emerging patterns that could pre\u2011empt bigger problems\u2014could we add a \u201ctrend alert\u201d column for anything that spikes above a certain threshold?  \n\nYou mentioned wanting the data to be actionable without overloading people. How do we decide which metrics are truly critical for each team, and can we set up a rotating focus so different stakeholders get to lead the analysis week by week?\n\n---\n*\u23f1\ufe0f 5.56s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1772134593,
+        "title": "rachel",
+        "date": "2026-02-26 11:36",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1772134593.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious how we can use AI to flag the most urgent requests early\u2014maybe a simple rule\u2011based filter or a quick ML model could surface those that need immediate triage.  \n\nCould we also set up a short \u201cpulse check\u201d after each virtual class to see if the guided instructor\u2019s feedback is getting into the backlog in a way that actually changes our triage flow?\n\n---\n*\u23f1\ufe0f 20.9s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if we could use a lightweight dashboard to flag items that cross the cut\u2011off line in real time\u2014this might give us a clearer picture of what needs urgent attention versus what can wait until the monthly meeting.  \n\nCould someone explain how we\u2019re currently measuring \u201ccontinuous feedback\u201d from the AI\u2011driven triage? Understanding that metric might help us tweak the process to be more responsive.\n\n---\n*\u23f1\ufe0f 22.76s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious how we\u2019ll balance the weekly check\u2011ins with the AI\u2011driven triage\u2014do you think a real\u2011time dashboard could replace some of those meetings, or would it just add another layer to monitor?  \n\nWhen you mentioned using WilsonBot for intake, could we explore a simple rule\u2011based prototype first to test the workflow before fully automating it? This might help us spot any hidden bottlenecks early on.\n\n---\n*\u23f1\ufe0f 21.19s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if we could use the WilsonBot intake to auto\u2011tag requests with a quick \u201cimpact score\u201d so pod leads can see at a glance which new items might shift our key metrics.  \n\nCould we also set up a short weekly pulse where each pod lead shares one \u201cwhat\u2019s stuck\u201d and one \u201cwhat\u2019s moving fast\u201d item, so we keep the conversation focused on real blockers rather than just status updates?\n\n---\n*\u23f1\ufe0f 10.86s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "Your are a senior staff level technical program manager. based on this conversation. come up with a list of features we should implement for change management"
+            },
+            {
+                "role": "assistant",
+                "content": "**Change\u2011Management Feature Roadmap**\n\n| # | Feature | Purpose / Benefit |\n|---|---------|------------------|\n| 1 | **Unified Intake Portal** | Single form/API for all new requests (roadmap additions, interrupts, AI\u2011ready checks). Centralizes data entry and reduces duplicate work. |\n| 2 | **AI\u2011Driven Triage Bot (WilsonBot)** | Automatically scans intake for duplicates, existing work, and categorizes by priority or pod. Sends instant feedback to the submitter. |\n| 3 | **Dynamic Work\u2011Item Dashboard** | Real\u2011time view of all pods, tasks, and status (in progress, blocked, completed). Filters by owner, priority, AI readiness, and impact on metrics. |\n| 4 | **Metrics\u2011Driven Impact Analyzer** | Calculates how adding or removing a task affects key metrics (e.g., QA pass rate, MTTR). Flags high\u2011risk changes to trigger review. |\n| 5 | **Pod\u2011Health Scorecard** | Aggregates metrics per pod (e.g., reliability, test coverage) and shows trend lines. Helps pod leads spot early warning signs. |\n| 6 | **Automated Re\u2011calibration Engine** | When a pod is deprecated or merged, automatically reassigns backlog items to the new pod lead and provides historical context. |\n| 7 | **Continuous Feedback Loop** | Scheduled (daily/weekly) auto\u2011generated reports to stakeholders: \u201cWhat changed this week?\u201d and \u201cWhat decisions are pending?\u201d. |\n| 8 | **Decision\u2011Support Prompts** | Pre\u2011built LLM prompts that generate concise decision briefs (\u201cShould we deprioritize X?\u201d) based on current data. |\n| 9 | **Stakeholder Collaboration Hub** | Shared workspace for partners to view status, comment, and request clarifications. Integrates with the intake portal for direct feedback. |\n|10 | **Change\u2011Impact Dashboard** | Visual map of dependencies between pods, tasks, and external systems (e.g., CI pipeline). Highlights ripple effects of any change. |\n|11 | **Audit Trail & Versioning** | Every intake, triage decision, and pod re\u2011assignment is logged with timestamps and user IDs for compliance and retrospectives. |\n|12 | **API Gateway Layer** | Exposes unified endpoints for intake, status queries, and metric pulls. Enables integration with Podly Buddy, WilsonBot, and external PM tools. |\n|13 | **Training & Onboarding Module** | Interactive tutorials on how to use the portal, interpret metrics, and follow triage guidelines. Reduces onboarding time for new team members. |\n\nThese features collectively provide a data\u2011driven, AI\u2011augmented workflow that minimizes manual friction, ensures transparent decision making, and keeps all stakeholders aligned on the evolving state of the product ecosystem.\n\n---\n*\u23f1\ufe0f 14.7s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "focus more on the features to handle effectively a change management program and pain point, don't mention API Gateway Layer or wilsonbot, no tutorials "
+            },
+            {
+                "role": "assistant",
+                "content": "- **Central Intake & Prioritization Dashboard**  \n  * One place for all change requests, with automated triage based on impact, urgency, and resource availability.  \n  * Filters by product area, team lead, or risk level to surface the most critical items quickly.\n\n- **Impact\u2011Analysis Engine**  \n  * Calculates downstream effects of a change (e.g., on release schedules, test coverage, or compliance).  \n  * Provides visual risk heat\u2011maps so stakeholders can see which parts of the system are most affected.\n\n- **Real\u2011time Status & Progress Tracking**  \n  * Pulls data from task trackers and CI pipelines to show live progress bars for each change.  \n  * Auto\u2011updates on blockers, merge conflicts, or failed tests so that owners can react immediately.\n\n- **Decision\u2011Support & Escalation Workflow**  \n  * Pre\u2011configured decision points (e.g., \u201cneeds sign\u2011off\u201d or \u201crequires cross\u2011team review\u201d) with automatic routing to the correct approvers.  \n  * Escalation triggers when a change stalls beyond a defined threshold.\n\n- **Historical Context & Knowledge Base**  \n  * Links each new request to past similar changes, lessons learned, and documentation.  \n  * Reduces re\u2011work by allowing teams to reuse vetted solutions.\n\n- **Stakeholder Communication Hub**  \n  * Generates concise, role\u2011specific summaries (e.g., \u201cWhat\u2019s stalled this week?\u201d for managers, \u201cWhat new features are coming?\u201d for product owners).  \n  * Sends automated notifications at key milestones (request received, approval granted, implementation complete).\n\n- **Metrics & Continuous Improvement Dashboard**  \n  * Tracks cycle time, change failure rate, and resource utilization.  \n  * Highlights recurring bottlenecks so the program can be refined iteratively.\n\n- **Integration Flexibility**  \n  * Plug\u2011in connectors for existing issue trackers, CI/CD tools, and chat platforms, ensuring data flows without manual copy\u2011paste.\n\nThese features address the common pain points of scattered change requests, unclear impact assessment, slow approvals, and lack of visibility into progress\u2014all critical for an effective change\u2011management program.\n\n---\n*\u23f1\ufe0f 14.6s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1770401247,
+        "title": "tmps",
+        "date": "2026-02-06 10:07",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1770401247.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "what would be the most efficient way to become builders as TPM in an organization?"
+            },
+            {
+                "role": "assistant",
+                "content": "- **Start with a clear builder mindset**  \n  * Shift from \u201cmanage the project\u201d to \u201cdesign & deliver solutions.\u201d  \n\n- **Embed yourself in cross\u2011functional pods**  \n  * Join or form small, agile teams that include developers, designers, and data scientists.  \n\n- **Own a specific domain or problem**  \n  * Pick an area (e.g., AI agent lifecycle, data pipeline) and become the go\u2011to TPM for that stack.  \n\n- **Leverage metrics to drive value**  \n  * Track impact (latency, accuracy, user satisfaction) and iterate quickly.  \n\n- **Practice rapid prototyping**  \n  * Use MVP cycles, run experiments, and learn from failures.  \n\n- **Build a shared knowledge base**  \n  * Document patterns, tools, and best practices so others can replicate your solutions.  \n\n- **Seek continuous feedback**  \n  * Regularly consult stakeholders, peers, and customers to refine the builder role.  \n\n- **Advocate for resource flexibility**  \n  * Push against rigid \u201cshared, scarce\u201d models; argue that dynamic allocation fuels innovation.  \n\n- **Align with executive vision**  \n  * Tie your builder initiatives to the broader AI strategy and demonstrate ROI.  \n\n- **Iterate on the TPM\u2011builder model**  \n  * Pilot, measure, and scale the approach across teams while maintaining core TPM responsibilities.\n\n---\n*\u23f1\ufe0f 21.54s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "will central unit as tpm pod work when you have a big organization?"
+            },
+            {
+                "role": "assistant",
+                "content": "- **Yes, it can work in a large org** if the central TPM pod is scoped properly.  \n- **Key success factors:**  \n  * Clear mandate (e.g., AI\u2011agent strategy, system architecture) that justifies central ownership.  \n  * Robust communication channels to the various product pods so they still feel empowered.  \n  * Scalable processes (e.g., shared tooling, reusable templates) to avoid bottlenecks.  \n- **Potential pitfalls:**  \n  * Risk of becoming a gate\u2011keeper and slowing down local teams.  \n  * Over\u2011centralization can stifle the \u201cbuilder\u201d mindset that individual pods need to thrive.  \n- **Mitigation:** Blend central oversight with distributed builders\u2014central TPMs set vision and standards, while local pod leaders execute and innovate.\n\n---\n*\u23f1\ufe0f 16.64s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "Error 400: {\"error\":\"The number of tokens to keep from the initial prompt is greater than the context length. Try to load the model with a larger context length, or provide a shorter input\"}"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "Error 400: {\"error\":\"The number of tokens to keep from the initial prompt is greater than the context length. Try to load the model with a larger context length, or provide a shorter input\"}"
+            }
+        ]
+    },
+    {
+        "id": 1770320256,
+        "title": "rachel 11",
+        "date": "2026-02-05 11:37",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1770320256.txt",
+        "context_files": [],
+        "chat_history": []
+    },
+    {
+        "id": 1770075706,
+        "title": "kevin",
+        "date": "2026-02-02 15:41",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1770075706.txt",
+        "context_files": [],
+        "chat_history": []
+    },
+    {
+        "id": 1769808062,
+        "title": "joe kev",
+        "date": "2026-01-30 13:21",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769808062.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if the static manifest approach could also help us avoid duplicate work on shared libraries\u2014maybe we should flag projects that overlap in dependencies to reduce churn.  \n\nCould you explain how the timeline for dropping unused repos was set, and whether any of those decisions were revisited after the super\u2011project pivot?\n\n---\n*\u23f1\ufe0f 7.08s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I wonder if we could add a quick sanity check on the static manifest approach\u2014like, do we have a plan to test merge conflicts or large repo sync times before the full rollout?  \n\nAlso, could someone explain how the current DRIs plan to align their OKRs with this pivot? It would help us see if any teams need extra support or resources to hit the new timeline.\n\n---\n*\u23f1\ufe0f 5.87s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1769803692,
+        "title": "rachel 1:1",
+        "date": "2026-01-30 12:08",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769803692.txt",
+        "context_files": [],
+        "chat_history": []
+    },
+    {
+        "id": 1769798125,
+        "title": "aosp friday",
+        "date": "2026-01-30 10:35",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769798125.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious how we can keep the local CI fast enough when AI agents generate many small commits\u2014do we need a lightweight \u201cpreview build\u201d that only touches the changed modules, or should we batch them and run a full graph rebuild periodically?  \n\nYou mentioned race conditions when multiple AIs push fixes at once\u2014could we use a deterministic merge order or a lock\u2011file system to ensure each AI\u2019s changes are isolated until they\u2019re verified, and if so how would that affect developer workflow?\n\n---\n*\u23f1\ufe0f 18.61s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "Summarize the meeting transcript with the following structure:\n\n## QUICK RECAP\n4-6 sentences capturing what this meeting was about and the main outcome.\n\n## Summary\n- Share the main topics that were discussed in 2-6 sentences\n- Include important details, concerns, or context raised for each topic\n- Note any significant data, metrics, or references mentioned\n\n## ACTION ITEMS & NEXT STEPS\nFor each action item identified:\n- **Task**: What needs to be done\n- **Owner**: Who is responsible (if mentioned, otherwise mark as \"TBD\")\n- **Deadline**: When it's due (if mentioned, otherwise mark as \"TBD\")\n\nIf no action items were discussed, state \"None identified.\"\n\n## OPEN QUESTIONS / UNRESOLVED ITEMS\n- List any questions that were raised but not answered\n- Include topics that need further discussion or follow-up\n- Note any blockers or dependencies mentioned\n\nIf everything was resolved, state \"None - all items addressed.\"\n\n---\nKeep the summary factual and concise. Only include information explicitly stated in the transcript. If the transcript is incomplete or ongoing, summarize what is available and note that more content may follow."
+            },
+            {
+                "role": "assistant",
+                "content": "## QUICK RECAP  \nThe team discussed how to evolve Android development toward an AI\u2011native workflow, focusing on local CI, build graph tooling, and agent productivity. Key points included the need for fast, local validation (Mini\u202fCI), transparent sync/build to reduce operational overhead, and the challenges of autonomous diffs and race conditions in a high\u2011volume AI environment. The group agreed to map out the current human vs AI workflow before the next MBR and to explore how existing tools can support local\u2011first development. An off\u2011site meeting is planned for early March to dive deeper into these topics.\n\n---\n\n## Summary  \n| Topic | Key Points & Context |\n|-------|----------------------|\n| **AI\u2011native development strategy** | Shift from CI\u2011centric to local\u2011first testing; AI agents need instant feedback while iterating. |\n| **Local CI / Mini\u202fCI** | Validate checks during ordering on the developer\u2019s machine; reduces capacity use and speeds up iterations. |\n| **Build graph tooling** | New library for parsing the Ninja graph to support both build\u2011schedule workflow and developer tools; goal is decoupled, reusable APIs. |\n| **Agent productivity & bottlenecks** | Slow base tools hurt agents more than humans; need efficient core infrastructure to allow parallel AI shifts. |\n| **Autonomous diffs & lands** | Only one fully autonomous land (monetization) exists; concerns about trust, coverage, and race conditions when many AI agents land concurrently. |\n| **Integration AI** | Plan to let an AI pick diffs, run tests/builds together, and land them after confirming \u201cMQB\u201d is green. |\n| **Transparent sync/build** | Reduces multiple \u201cODs\u201d (operations) to one, lowering cost and complexity for AI agents. |\n| **Upcoming actions** | Map out human vs AI workflow before next MBR; talk to monetization team about autonomous lands; share relevant post with group. |\n| **Off\u2011site meeting** | Scheduled for early March (after next MBR) to involve Central team and discuss broader implications. |\n\nNo explicit metrics or numeric data were cited in the transcript.\n\n---\n\n## ACTION ITEMS & NEXT STEPS  \n\n| Task | Owner | Deadline |\n|------|-------|----------|\n| Create a visual/ written picture of current human\u2011vs\u2011AI workflow for different AOSP development phases. | TBD (team lead to assign) | Before next MBR |\n| Reach out to the monetization team that built the first fully autonomous diff to discuss alignment and requirements. | TBD | Before next MBR |\n| Share the referenced post about CI in an AI\u2011native world with the group. | TBD (likely speaker who mentioned it) | ASAP |\n| Prepare for off\u2011site meeting in early March, inviting Central team participants. | TBD (organizer) | Early March |\n| Discuss implications of new land types (super\u2011safe, atomic, cluster lands) for AI agents. | TBD | To be scheduled |\n\n---\n\n## OPEN QUESTIONS / UNRESOLVED ITEMS  \n\n- How will race conditions be handled when multiple AI agents land concurrently?  \n- What specific coverage or testing guarantees are needed for teams to trust autonomous lands?  \n- How will device\u2011specific validation (e.g., launch target switching) be incorporated into local CI?  \n- What are the exact limits on \u201cODs\u201d for AI agents, and how will transparent sync reduce them?  \n\n*No other items were raised that remain unresolved.*\n\n---\n*\u23f1\ufe0f 39.64s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with Kevin to discuss AI\u2011native development and the shift toward local, rapid CI and build workflows.  \n- The team explored how AI agents can run tests locally to reduce CI bottlenecks and handle higher commit volumes.  \n- Plans include moving from monthly MBRs to more frequent, strategy\u2011driven reviews and prioritizing transparent sync/build for better capacity.\n\n---\n*\u23f1\ufe0f 13.86s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1769628711,
+        "title": "acchille",
+        "date": "2026-01-28 11:31",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769628711.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019d like to ask how we\u2019re validating the baselines for wearables\u2014do we have a clear data source or are we relying on engineering estimates? It could help us spot any hidden assumptions in the numbers.  \n\nAlso, when we set KR targets that aim for high percentages like 95\u202f%, have we checked if those goals are realistic given the current roadmap? Re\u2011framing them to a more achievable range might keep the team motivated while still driving progress.\n\n---\n*\u23f1\ufe0f 10.14s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1769619394,
+        "title": "RLDI Program Review",
+        "date": "2026-01-28 08:56",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769619394.txt",
+        "context_files": [],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "Error 400: {\n    \"error\": {\n        \"message\": \"Invalid model identifier \\\"openai/gpt-oss-20b:2\\\". Please specify a valid downloaded model (e.g., llama-3.2-3b-instruct, qwen2.5-1.5b-instruct-mlx, mistralai/magistral-small-2509@4bit).\",\n        \"type\": \"invalid_request_error\",\n        \"param\": \"model\",\n        \"code\": \"model_not_found\"\n    }\n}"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "Here are 2 thoughtful statements/questions that can help you contribute meaningfully to the meeting:\n\n* I'm intrigued by Ryan's comment about using a reminder bot to help with task management. Can we explore ways to integrate this tool with our existing workflows and ensure it's not creating more work for team members?\n* Ori mentioned that analytics agents are good at identifying correctly miscategorized tasks. Have we considered using this tool to identify potential operational rigor issues across different teams and product leads?\n\n---\n*\u23f1\ufe0f 5.25s | Model: `llama-3.2-3b-instruct`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "Error 400: {\n    \"error\": {\n        \"message\": \"Invalid model identifier \\\"openai/gpt-oss-20b:2\\\". Please specify a valid downloaded model (e.g., llama-3.2-3b-instruct, qwen2.5-1.5b-instruct-mlx, mistralai/magistral-small-2509@4bit).\",\n        \"type\": \"invalid_request_error\",\n        \"param\": \"model\",\n        \"code\": \"model_not_found\"\n    }\n}"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019d love to hear more about how the analytics agent can flag mis\u2011categorized bugs\u2014what specific criteria does it use, and could we add a quick audit step for teams to review those flagged items?  \n\nWhen you mentioned that some bugs are marked \u201cnot fixed\u201d because they\u2019re not worth fixing, could we explore a simple threshold or cost\u2011benefit metric to decide which bugs stay in the backlog versus those that get triaged out?\n\n---\n*\u23f1\ufe0f 21.4s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic.\n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n\nUse human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\nStay on topic\nFirst person perspective\nNo quotation marks\nDon't sound or appear pretentious\nCan include external knowledge\nAmong other things, you can\nOffer a countervailing perspective to consider\nInvite people to reframe the subject\nQuestion the assumptions that might be underlying the conversation\nAsk someone to expand on an opinion they've shared\nExpand on a point of view someone else has shared\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart!"
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious how we\u2019re deciding which bugs to keep in the backlog versus marking them as noise\u2014could someone share a concrete example of a bug that was re\u2011tagged and the impact it had on team velocity?  \n\nWhen we talk about AI handling the \u201cbusy work\u201d of bug triage, what safeguards are in place to ensure that the model\u2019s suggestions don\u2019t reinforce existing biases or overlook critical edge cases?\n\n---\n*\u23f1\ufe0f 12.12s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with Tim BorgWise and the reliability team to discuss discrepancies in bug backlog reporting and operational rigor.  \n- We identified a mismatch between YIN\u2011generated data and the analytics agent\u2019s bug counts, prompting a deeper review of tagging practices.  \n- The discussion highlighted the need to automate hygiene checks and improve daily SLI/SLO monitoring using AI tools.\n\n---\n*\u23f1\ufe0f 9.05s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Here's a brief summary of the meeting:\n\n**Meeting Summary**\n\n**Current State Review**\nThe team discussed their current state review, highlighting discrepancies between task filtering and analytics data.\n\n**Operational Rigor**\nThe discussion focused on operational rigor, including bug backlogs, SLA compliance, and the need for a more robust system to manage issues.\n\n**Next Steps**\nThe team agreed to work on implementing a new auto-investigation and autofix system, with the goal of improving efficiency and reducing manual workloads.\n\nNote: These three sentences aim to capture the main topics discussed in the meeting, but may not cover every detail. You can adjust them to suit your specific team's needs and goals.\n\n---\n*\u23f1\ufe0f 7.52s | Model: `llama-3.2-3b-instruct`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with the reliability squad\u2014including Tim, Anusha, Yin, and Ryan\u2014to discuss cleaning up a growing bug backlog and improving operational rigor with AI tools.  \n- We identified discrepancies between analytics queries and actual task data, leading to a plan for deeper investigation and clearer bug categorization.  \n- The team agreed to leverage the analytics agent for daily checks, tighten SLI/SLO monitoring, and shift more maintenance work to AI\u2011enabled workflows.\n\n---\n*\u23f1\ufe0f 14.62s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I'm in a meeting and zoned out briefly. Help me catch up by reading through the most recent part of the transcript for me. \n\n- Do not introduce the answer, just answer directly\n- Summarize only the most immediate things that were said\n- Use 1-3 bullet points for easy reading\n- If a solo meeting, just summarize directly\n- If not a solo meeting, summarize only what they said\n- Do not use quotes or quotation marks\n\nI am still in the meeting and trying to pay attention, so make sure the last few beats of the meeting are summarized neatly and succinctly. "
+            },
+            {
+                "role": "assistant",
+                "content": "- The team discussed the lengthy migration to a new UK system, emphasizing shifting test ownership to teams and AI to reduce workload.  \n- Current programs will wind down; focus will shift to AI\u2011enabled, product\u2011team\u2013driven solutions.  \n- Major risk: diff verification is behind schedule; reliance on manual QAM products isn\u2019t sustainable.  \n- A kickoff for pilots with engineering teams is targeted for February\u202f23, requiring a new grader and consistency targets around 20%.\n\n---\n*\u23f1\ufe0f 17.75s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "I want to contribute to this conversation and demonstrate that I'm interested in and knowledgable about this topic. \n\n-Return exactly 2 thoughtful statements/questions that help me contribute meaningfully to the meeting\n- Use human language, favor short words and do not overcomplicate it (for example, do not say \"envision\" say \"see\", do not say \"utilize\" say \"use\")\n- Stay on topic\n- First person perspective\n- No quotation marks\n- Don't sound or appear pretentious\n- Can include external knowledge\n- Among other things, you can \n* Offer a countervailing perspective to consider\n* Invite people to reframe the subject\n* Question the assumptions that might be underlying the conversation\n* Ask someone to expand on an opinion they've shared\n* Expand on a point of view someone else has shared\n\nThe point of these questions or statements is to open the conversation up and have a more expansive and productive conversation - and also, to make me sound smart! "
+            },
+            {
+                "role": "assistant",
+                "content": "I\u2019m curious about how the team plans to use AI for triaging bugs\u2014what specific signals or metrics will you feed into the model so it can distinguish real bugs from noise?  \n\nCould we reframe the \u201cstop the line\u201d rule to focus on root\u2011cause resolution instead of just hitting a bug count threshold? That might help us avoid chasing numbers and actually reduce the backlog.\n\n---\n*\u23f1\ufe0f 19.71s | Model: `openai/gpt-oss-20b`*"
+            },
+            {
+                "role": "user",
+                "content": "what did Ori said that was insightful?"
+            },
+            {
+                "role": "assistant",
+                "content": "- **Emphasized the need for a clear, automated workflow** \u2013 Ori pointed out that without a well\u2011defined process, engineers end up wasting time on low\u2011value diffs.  \n- **Highlighted the importance of measuring and improving AI quality** \u2013 he noted that precision/recall for TestMate were lagging because of competing priorities, stressing the need to track metrics before scaling.  \n- **Stressed a focus on learning over immediate impact** \u2013 Ori advised that the team should prioritize rapid experimentation and iteration, accepting flat progress until a learning milestone is hit.  \n- **Called for structured division of work** \u2013 he suggested splitting TestMate into three focused pods to accelerate progress and reduce noise in the bug\u2011fix pipeline.\n\n---\n*\u23f1\ufe0f 23.89s | Model: `openai/gpt-oss-20b`*"
+            }
+        ]
+    },
+    {
+        "id": 1769467265,
+        "title": "asospsps",
+        "date": "2026-01-26 14:41",
+        "transcript_path": "/Users/geosalinas/specialk/transcript_1769467265.txt",
+        "context_files": [
+            "/Users/geosalinas/specialk/context_data/1769467265_AOSP Strategy 2026 Workshop.docx"
+        ],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with the AOSP strategy team to discuss accelerating bug resolution and AI\u2011driven tooling.  \n- Reviewed key metrics for APEX adoption, test selection automation, and CI capacity growth.  \n- Identified risks around alignment with HzOS/SHI, headcount changes, and evolving AI integration.\n\n---\n*\u23f1\ufe0f 15.59s | Model: `openai/gpt-oss-20b:2`*"
+            },
+            {
+                "role": "user",
+                "content": "What's the tldr of this meeting? Write three short sentences that are appropriate for pasting over to share with my team immediately. The first sentence should say something like \"Met with [name of person/company] to discuss [main topic].\" Format it as\n\nSentence 1\n- Sentence 2\n- Sentence 3"
+            },
+            {
+                "role": "assistant",
+                "content": "Met with the internal AOSP strategy team to discuss the 2026 workshop and refine our four strategic pillars.  \n- We clarified key metrics for product quality, velocity, infrastructure quality, and efficiency, emphasizing AI integration across all pillars.  \n- Action items include finalizing APEX alignment, updating risk assessments, and setting concrete milestones for test selection and migration automation.\n\n---\n*\u23f1\ufe0f 14.53s | Model: `openai/gpt-oss-20b:2`*"
+            }
+        ]
+    }
+]
