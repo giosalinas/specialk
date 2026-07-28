@@ -1,0 +1,19 @@
+# Core Dependencies
+streamlit>=1.28.0
+numpy>=1.24.0
+pyaudio>=0.2.13
+
+# Local Transcription - Apple Silicon (MLX)
+mlx-whisper>=0.3.0
+
+# Local Transcription - Linux/Windows/CUDA (Optional - uncomment if not using MLX)
+# whisperx>=3.1.0
+# torch>=2.0.0
+# torchaudio>=2.0.0
+
+# Document Processing
+pypdf>=3.17.0
+python-docx>=0.8.11
+
+# HTTP Requests (usually included with Streamlit, but being explicit)
+requests>=2.31.0
