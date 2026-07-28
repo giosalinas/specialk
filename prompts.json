@@ -1,0 +1,13 @@
+[
+    {
+        "title": "Recap Next Steps",
+        "text": "It\u2019s near the end of the meeting and I\u2019d like to wrap up and get confirm next steps. Can you please list out agreed action items with any explicitly mentioned deadlines. Where there is ambiguity or open subjects we absolutely need to confirm, list them below \"To confirm\". Try to only share the most important actions. \n\nOutput\n## Agreed actions\n* [brief, action focused list, each bullet starts with a verb)\n## To confirm\n* [questions or non-concluded discussions]",
+        "icon": "\ud83d\udd16"
+    },
+    {
+        "title": "Summary",
+        "text": "Summarize the meeting transcript with the following structure:\n\n## QUICK RECAP\n4-6 sentences capturing what this meeting was about and the main outcome.\n\n## Summary\n- Share the main topics that were discussed in 2-6 sentences\n- Include important details, concerns, or context raised for each topic\n- Note any significant data, metrics, or references mentioned\n\n## ACTION ITEMS & NEXT STEPS\nFor each action item identified:\n- **Task**: What needs to be done\n- **Owner**: Who is responsible (if mentioned, otherwise mark as \"TBD\")\n- **Deadline**: When it's due (if mentioned, otherwise mark as \"TBD\")\n\nIf no action items were discussed, state \"None identified.\"\n\n## OPEN QUESTIONS / UNRESOLVED ITEMS\n- List any questions that were raised but not answered\n- Include topics that need further discussion or follow-up\n- Note any blockers or dependencies mentioned\n\nIf everything was resolved, state \"None - all items addressed.\"\n\n---\nKeep the summary factual and concise. Only include information explicitly stated in the transcript. If the transcript is incomplete or ongoing, summarize what is available and note that more content may follow.",
+        "icon": "\ud83d\udcd6",
+        "usage_count": 8
+    }
+]

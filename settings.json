@@ -1,0 +1,21 @@
+{
+    "llm_model_id": "openai/gpt-oss-20b",
+    "saved_llm_models": [
+        "local-model",
+        "qwen2.5-32b-instruct",
+        "llama-3.1-8b-instruct",
+        "openai/gpt-oss-20b:2",
+        "google/gemma-3-27b",
+        "meta-llama-3.1-8b-instruct",
+        "qwen/qwen3-30b-a3b-2507",
+        "bytedance/seed-oss-36b",
+        "mistralai/magistral-small-2509",
+        "qwen2.5-1.5b-instruct-mlx",
+        "llama-3.2-3b-instruct",
+        "openai/gpt-oss-20b"
+    ],
+    "transcription_engine": "WhisperX (Torch)",
+    "transcription_model": "mlx-community/whisper-large-v3-turbo",
+    "llm_transcription_enabled": true,
+    "llm_transcription_model_id": "llama-3.2-3b-instruct"
+}
